@@ -1,9 +1,10 @@
 channels:
+  - conda-forge
   - pydy
 dependencies:
   - numpy
   - scipy
   - sympy
   - matplotlib
-  - ipython-notebook
+  - jupyter
   - pydy
